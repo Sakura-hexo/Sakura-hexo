@@ -6,7 +6,7 @@ Java 后端开发 / LLM 应用工程化实践者 / 独立开发者
 [![Stars](https://img.shields.io/github/stars/Sakura-hexo/mockInterview.svg?style=social&label=Stars)](https://github.com/Sakura-hexo/mockInterview)
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-red)](https://blog.csdn.net/ok6667?type=blog)
 
-数据科学与大数据技术在读本科（2024–2028），独立开发多智能体模拟面试平台 mockInterview 并持续维护至今。
+计算机科学与技术在读本科（2024–2028），独立开发多智能体模拟面试平台 mockInterview 并持续维护至今。
 
 我长期关注 Java 后端、LLM 应用开发、Agent 编排与 RAG 检索。比起堆功能，我更在意把每个功能做到能上生产——延迟要实测、兜底要真机验证、优化要拿数据说话。
 
