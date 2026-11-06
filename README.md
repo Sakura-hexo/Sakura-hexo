@@ -37,7 +37,4 @@ I write on CSDN about troubleshooting and optimization war stories from real dep
 
 ---
 
-![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-hexo&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-hexo&layout=compact&langs_count=8)
-
 ⭐ If you find mockInterview interesting, a star would make my day. Always happy to talk about Java backends and LLM engineering.
